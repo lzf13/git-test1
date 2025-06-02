@@ -1,0 +1,12 @@
+package com.lzf.git;
+
+/**
+ * @author luozhifeng
+ * @version 1.0
+ * @date 2025/6/2
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello git!!!!");
+    }
+}
